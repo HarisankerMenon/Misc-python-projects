@@ -1,0 +1,22 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+
+# Logs and outputs
+*.log
+*.csv
+*.sqlite3
